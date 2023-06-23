@@ -1,0 +1,24 @@
+The Course Curriculum !
+--------------Git Core
+-> Intro to Git
+-> Installation
+-> Git Basics
+-> Committing In Details
+-> Branching
+-> Merging
+------------Next Level Git
+-> Diffing
+-> Stashing 
+-> Undoing Changes
+----------Github/Collab Core
+-> Github Intro
+-> Featching & Pulling
+-> Github Odds & Ends
+-> Collaberation Workfliows
+-------------Git: The Other Parts
+-> Rebasing
+-> Interactive Rebasing
+-> Git Tags
+-> Git Behind The Scenes
+-> Reflogs
+-> Custom Aliases
